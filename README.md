@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alaa-elusfy
-- 🧑‍🎓 I’m currently a computer science student
-- 👀 I’m interested in web development and DevOps
-- 🌱 I'm currently learning ReactJS and some Front-end skills
+- 🧑‍🎓 I’m have a computer science degree from the Higher Institute of Informatics and Mathematics of Monastir (Tunisia).
+- 👀 I’m interested in web development and DevOps.
+- 🌱 I am passionate about AI & ML
 - 📫 How to reach me: alaaelusfy@gmail.com
