@@ -9,11 +9,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-
   <!-- DevOps & Middleware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/376340/openshift.svg" alt="OpenShift" width="80" height="40"/>
+  <img src="https://www.svgrepo.com/show/354143/openshift.svg" alt="OpenShift" width="80" height="40"/>
   <img src="https://www.svgrepo.com/show/353403/apache-camel.svg" alt="Apache Camel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40"/>
@@ -28,7 +27,7 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Elastic_stack_logo.svg" alt="ELK Stack" width="80" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" alt="ELK Stack" width="80" height="40"/>
 </p>
 
 ---
