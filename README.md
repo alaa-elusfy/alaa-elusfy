@@ -45,6 +45,8 @@
 
 ### 🧑‍🎓 About Me
 
+- 💼 Currently working as a **Software Engineer at Zitouna Bank**  
+  <img src="https://www.banquezitouna.com/themes/custom/particuliers/logo.svg" alt="Zitouna Bank Logo" width="120" />
 - 🎓 I hold a Bachelor's degree in Computer Science from the Higher Institute of Informatics and Mathematics of Monastir (Tunisia), and I’m currently pursuing an Engineering degree at iTeam University (Tunisia).
 - 👀 I’m passionate about Backend Development and DevOps.
 - 🌱 I have a strong interest in Security and Artificial Intelligence.
