@@ -14,12 +14,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenShift-LogoType.svg" alt="OpenShift" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Apache_Camel_logo.svg" alt="Apache Camel" width="70" height="40"/>
+  <img src="https://camel.apache.org/images/camel-icon.svg" alt="Apache Camel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40"/>
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 
   <!-- Version Control -->
@@ -28,7 +28,7 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Elastic_Logo.svg" alt="ELK Stack" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Elastic_stack_logo.svg" alt="ELK Stack" width="80" height="40"/>
 </p>
 
 ---
