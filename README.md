@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenShift-LogoType.svg" alt="OpenShift" width="80" height="40"/>
-  <img src="[https://camel.apache.org/images/camel-icon.svg](https://www.svgrepo.com/show/353403/apache-camel.svg)" alt="Apache Camel" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353403/apache-camel.svg" alt="Apache Camel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40"/>
 
