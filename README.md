@@ -45,12 +45,11 @@
 
 ### 🧑‍🎓 About Me
 
-- 💼 Currently working as a **Software Engineer at Zitouna Bank**  
-  <img src="https://www.banquezitouna.com/themes/custom/particuliers/logo.svg" alt="Zitouna Bank Logo" width="120" />
+- 💼 Currently working as a **Software Engineer at Zitouna Bank** <img src="https://www.banquezitouna.com/themes/custom/particuliers/logo.svg" alt="Zitouna Bank Logo" width="40" height="40" />
 
-- 🎓 I hold a Bachelor's degree in Computer Science from the **Higher Institute of Informatics and Mathematics of Monastir (ISIMM)** <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/ISIM_LOGO_ar.png/330px-ISIM_LOGO_ar.png" alt="ISIMM Logo" width="120" />
+- 🎓 I hold a Bachelor's degree in Computer Science from the **Higher Institute of Informatics and Mathematics of Monastir (ISIMM)** <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/ISIM_LOGO_ar.png/330px-ISIM_LOGO_ar.png" alt="ISIMM Logo" width="40" height="40" />
 
-- 🎓 I’m currently pursuing an Engineering degree at **iTeam University (Tunisia)** <img src="https://iteam-univ.tn/wp-content/uploads/2020/07/Logo_iTeamUniversity.png" alt="iTeam University Logo" width="120" />
+- 🎓 I’m currently pursuing an Engineering degree at **iTeam University (Tunisia)** <img src="https://iteam-univ.tn/wp-content/uploads/2020/07/Logo_iTeamUniversity.png" alt="iTeam University Logo" width="40" height="40" />
 
 - 👀 I’m passionate about Backend Development and DevOps.  
 - 🌱 I have a strong interest in Security and Artificial Intelligence.  
